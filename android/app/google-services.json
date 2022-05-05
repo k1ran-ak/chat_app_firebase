@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188222682231",
+    "firebase_url": "https://chatapp-63f7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-63f7b",
+    "storage_bucket": "chatapp-63f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188222682231:android:8150353edb54ae50ac8272",
+        "android_client_info": {
+          "package_name": "com.nextazy.chatappandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188222682231-2troorrf7n4n9d9c5h7ske7jgslibctj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVOC2QfRVeN8dE-2ryJaYA3mJWzaX4GzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188222682231-2troorrf7n4n9d9c5h7ske7jgslibctj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188222682231-ggkfmfbdbc6aibstk2btmc4atuo6s5j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nextazy.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
